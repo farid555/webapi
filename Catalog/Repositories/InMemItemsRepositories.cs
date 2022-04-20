@@ -1,19 +1,19 @@
 using System;
 using System.Collections.Generic;
-using Catalog.Entites;
+using Catalog.Entities;
 using System.Linq;
-
-
 
 namespace Catalog.Repositories
 {
-    public class InMemItemsRepository
+
+
+    public class InMemItemsRepository : IItemsRepository
     {
         private readonly List<Item> items = new()
         {
-            new Item { Id = Guid.NewGuid(), Name = "Mohammad", Price = 9, CreatedDate = DateTimeOffset.UtcNow },
-            new Item { Id = Guid.NewGuid(), Name = "Zaman", Price = 10, CreatedDate = DateTimeOffset.UtcNow },
-            new Item { Id = Guid.NewGuid(), Name = "Farid", Price = 3, CreatedDate = DateTimeOffset.UtcNow }
+            new Item { Id = Guid.NewGuid(), Name = "Cake", Price = 2, CreatedDate = DateTimeOffset.UtcNow },
+            new Item { Id = Guid.NewGuid(), Name = "Apple", Price = 4, CreatedDate = DateTimeOffset.UtcNow },
+            new Item { Id = Guid.NewGuid(), Name = "Orange", Price = 3, CreatedDate = DateTimeOffset.UtcNow }
         };
 
         public IEnumerable<Item> GetItems()
