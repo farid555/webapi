@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6w8B7eZvfp0sRAnWXyFiUAu6E0Nn6N0iOnQYqh2xiZSwZvqEY/XlOiCLN51evybSZImZqUo5zCJIOFcbp62HhQ==",
+  "success": true,
+  "projectFilePath": "/Users/farid/Desktop/Webapi/Catalog/Catalog.csproj",
+  "expectedPackageFiles": [
+    "/Users/farid/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/farid/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/farid/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/farid/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/farid/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/farid/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

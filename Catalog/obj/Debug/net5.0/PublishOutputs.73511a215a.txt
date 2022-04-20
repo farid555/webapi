@@ -1,0 +1,11 @@
+/Users/farid/Desktop/Webapi/Catalog/bin/Debug/net5.0/publish/Catalog
+/Users/farid/Desktop/Webapi/Catalog/bin/Debug/net5.0/publish/appsettings.Development.json
+/Users/farid/Desktop/Webapi/Catalog/bin/Debug/net5.0/publish/appsettings.json
+/Users/farid/Desktop/Webapi/Catalog/bin/Debug/net5.0/publish/Catalog.dll
+/Users/farid/Desktop/Webapi/Catalog/bin/Debug/net5.0/publish/Catalog.deps.json
+/Users/farid/Desktop/Webapi/Catalog/bin/Debug/net5.0/publish/Catalog.runtimeconfig.json
+/Users/farid/Desktop/Webapi/Catalog/bin/Debug/net5.0/publish/Catalog.pdb
+/Users/farid/Desktop/Webapi/Catalog/bin/Debug/net5.0/publish/Microsoft.OpenApi.dll
+/Users/farid/Desktop/Webapi/Catalog/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/farid/Desktop/Webapi/Catalog/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/farid/Desktop/Webapi/Catalog/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
